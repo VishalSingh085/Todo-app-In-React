@@ -14,7 +14,7 @@ function App() {
       setTodo([...todo])
 
      }
-       console.log("length of todo",todo.length)
+       console.log("length of todo vishal",todo.length)
 
   return (
  <div> 
